@@ -1,1 +1,1 @@
-# An initial step into API usage
+# Creation of an Image card
